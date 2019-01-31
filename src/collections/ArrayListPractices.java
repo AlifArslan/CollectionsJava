@@ -13,7 +13,7 @@ public class ArrayListPractices {
         Employee e4 = new Employee("444", "NTS");
         
          //Object type arraylist when retreiving type casting must be required
-        ArrayList a1 = new ArrayList();
+        ArrayList a1 = new ArrayList(); //non syncrozided
        
         a1.add(e1);
         
